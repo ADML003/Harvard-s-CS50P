@@ -1,1 +1,1 @@
-# Harvard-s-CS50P
+# Harvard-CS50P
