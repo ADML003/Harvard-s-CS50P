@@ -1,0 +1,3 @@
+To run the project, you need to have pytest installed. You can install it using pip install pytest. Then, you can run the tests by executing python test_project.py.
+
+This simple "To-Do List" project allows you to add tasks, mark tasks as completed, and view the current tasks in your list. The tests ensure that the functions in the project are working as expected. You can extend and enhance this project further with additional features and functionalities.
